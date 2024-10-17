@@ -1,0 +1,4 @@
+DISCORD_TOKEN: <Your token>
+SENSITIVE_WORDS:
+  - word_1
+  - word_2
